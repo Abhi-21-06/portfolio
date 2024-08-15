@@ -153,7 +153,7 @@ h3{
 .gallery img{
     width: 400px;
     margin: 5px;
-    margin-left: 140px;
+    margin-left: 180px;
     padding: 20px;
 }
 .gallery img:hover{
@@ -176,8 +176,8 @@ h3{
 }
 
 .box img{
-    width: 297px;
-    padding: 10px;
+    width: 340px;
+    padding: 30px;
     border-radius: 20px;
 }
 .box p{
@@ -200,7 +200,7 @@ h3{
 
 form{
     width: 400px;
-    margin-left: 400px;
+    margin-left: 500px;
 }
 .input{
     width: 100%;
